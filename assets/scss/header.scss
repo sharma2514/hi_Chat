@@ -1,0 +1,28 @@
+header{
+    display: flex;
+    width: 100%;
+    background-color: blue;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: white;
+    justify-content: space-between;
+}
+
+
+
+#sign-in-up{
+    display: flex;
+    width: 50%;
+    justify-content: center;
+    align-items: center;
+    li{
+        list-style: none;
+        display: inline-block;
+        margin: 8px;
+        a{
+            text-decoration: none;
+            color: white;
+            font-size: 1.1rem;
+        }
+    }
+}
