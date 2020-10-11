@@ -3,6 +3,7 @@
   height: 96%; }
   #home-container #feed-posts {
     width: 70%;
+    overflow: scroll;
     padding: 10px; }
   #home-container #user-friends {
     width: 30%;
